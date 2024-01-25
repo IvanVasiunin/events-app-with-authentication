@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/events-app-with-authentication/static/css/main.7acaea2f.css",
+    "main.js": "/events-app-with-authentication/static/js/main.07d3183d.js",
+    "index.html": "/events-app-with-authentication/index.html",
+    "main.7acaea2f.css.map": "/events-app-with-authentication/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/events-app-with-authentication/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
